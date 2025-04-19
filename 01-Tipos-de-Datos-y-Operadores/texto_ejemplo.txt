@@ -1,0 +1,3 @@
+Este es un texto de ejemplo. El texto sirve para probar el contador de palabras.
+Ejemplo de texto con palabras repetidas, para ver cómo funciona el contador.
+Contador, ejemplo, texto.
